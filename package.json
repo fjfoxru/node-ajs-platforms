@@ -1,0 +1,22 @@
+{
+  "name": "node-ajs-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjfoxru/node-ajs-platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjfoxru/node-ajs-platforms/issues"
+  },
+  "homepage": "https://github.com/fjfoxru/node-ajs-platforms#readme",
+  "dependencies": {
+    "@fjfoxru/ajs-platforms": "^1.0.0"
+  }
+}
